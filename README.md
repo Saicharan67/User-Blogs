@@ -1,3 +1,16 @@
+## User Blogs
+
+#### This react project is based on simple api call and fetching Json data and convering into blogs using React
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
